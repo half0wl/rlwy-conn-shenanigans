@@ -1,0 +1,1 @@
+Nothing to see here. Was originally intended to send a TCP RST packet as a server implementing the Postgres protocol, but shell couldn't cut it. Head to [half0wl/mockgres](https://github.com/half0wl/mockgres) for the final form of this.
